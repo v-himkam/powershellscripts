@@ -1,4 +1,4 @@
-# [Table of Content](#content)
+# Content
 - [Azure_APIManagement_AuthZ_Grant_Min_RBAC_Access](#Azure_APIManagement_AuthZ_Grant_Min_RBAC_Access)
 
 - [Azure_APIManagement_Audit_Enable_Alerts](#Azure_APIManagement_Audit_Enable_Alerts)
