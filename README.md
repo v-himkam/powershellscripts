@@ -1,6 +1,6 @@
-- [Azure_APIManagement_AuthZ_Grant_Min_RBAC_Access](output.md#Azure_APIManagement_AuthZ_Grant_Min_RBAC_Access)
+- [Azure_APIManagement_AuthZ_Grant_Min_RBAC_Access](#Azure_APIManagement_AuthZ_Grant_Min_RBAC_Access)
 
-- [Azure_APIManagement_Audit_Enable_Alerts](output.md#Azure_APIManagement_Audit_Enable_Alerts)
+- [Azure_APIManagement_Audit_Enable_Alerts](#Azure_APIManagement_Audit_Enable_Alerts)
 
 ## Azure_APIManagement_AuthZ_Grant_Min_RBAC_Access
 |Description|Recommendation|Notes
